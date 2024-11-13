@@ -1,0 +1,6 @@
+crewai
+langchain
+duckduckgo-search
+serpapi
+requests
+tweepy
